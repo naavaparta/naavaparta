@@ -1,14 +1,10 @@
-```
 ---
-
 title: Income Inequality and Social Problems
-feed: show
-date: 23.06.2022
-permalink: /income-inequality-and-social-problems
-format: 
-
+category: society
+favicon: 
 ---
-```
+
+## Income Inequality and Social Problems
 
 Many scholars have discovered that income inequality is linked to many social problems, including crime rates and homicide rates.
 

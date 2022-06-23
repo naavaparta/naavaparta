@@ -1,14 +1,10 @@
-```
 ---
-
 title: Legitimizing Masculinity
-feed: show
-date: 23.06.2022
-permalink: /legitimizing-masculinity
-format: 
-
+category: society
+favicon: 
 ---
-```
+
+## Legitimizing Masculinity
 
 [[The Incels]] normalize male aggression and male sexualization of females: "women desire to be sexualized, and males are programmed to sexualize".
 

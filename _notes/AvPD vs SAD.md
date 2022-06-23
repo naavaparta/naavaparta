@@ -1,14 +1,8 @@
-```
 ---
-
 title: AvPD vs SAD
-feed: show
-date: 23.06.2022
-permalink: /avpd-vs-sad
-format: 
-
+category: psychology
+favicon: 
 ---
-```
 
 Comparisons between [[AvPD]] and [[Social Anxiety Disorder]].
 

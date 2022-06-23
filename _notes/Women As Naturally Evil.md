@@ -1,14 +1,10 @@
-```
 ---
-
 title: Women As Naturally Evil
-feed: show
-date: 23.06.2022
-permalink: /women-as-naturally-evil
-format: 
-
+category: society
+favicon: 
 ---
-```
+
+## Women As Naturally Evil
 
 Incels see female evilness as a combination of evolution, biology, and culture. They view women as evolutionarily compelled to manipulate men.
 

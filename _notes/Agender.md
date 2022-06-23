@@ -1,15 +1,10 @@
-```
 ---
-
 title: Agender
-feed: row
-date: 23.06.2022
-format:
-permalink: /agender
-
+category: gender
+favicon: 
 ---
-```
 
+## Agender
 
 Agender is a gender identity that literally means *without gender*. An agender person does not have a gender, or they feel that their gender is neutral. This can be grouped under nonbinary, but it is not an universal experience.
 

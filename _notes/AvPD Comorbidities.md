@@ -1,14 +1,10 @@
-```
 ---
-
 title: AvPD Comorbidities
-feed: show
-date: 23.06.2022
-permalink: /avpd-comorbidities
-format: 
-
+category: psychology
+favicon: 
 ---
-```
+
+## AvPD Comorbidities
 
 The most common [[AvPD]] comorbidity is social anxiety.
 

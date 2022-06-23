@@ -1,14 +1,10 @@
-```
 ---
-
 title: AvPD
-feed: show
-date: 23.06.2022
-permalink: /avpd
-format: 
-
+category: psychology
+favicon: 
 ---
-```
+
+## AvPD
 
 Avoidant Personality Disorder is a Cluster C personality disorder.
 
