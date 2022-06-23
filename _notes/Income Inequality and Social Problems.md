@@ -4,8 +4,6 @@ category: society
 favicon: 
 ---
 
-## Income Inequality and Social Problems
-
 Many scholars have discovered that income inequality is linked to many social problems, including crime rates and homicide rates.
 
 In communities where there is great income inequality, there is also more anger, frustration, resentment, and hostility. Inequality may lead to status insecurity, which may turn into stress, anxiety, and aggression.

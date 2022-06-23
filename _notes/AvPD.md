@@ -4,8 +4,6 @@ category: psychology
 favicon: 
 ---
 
-## AvPD
-
 Avoidant Personality Disorder is a Cluster C personality disorder.
 
 AvPD is characterized by:

@@ -4,8 +4,6 @@ category: religion
 favicon: 
 ---
 
-## Religion
-
 Salafism is a branch of Sunni [[Islam]].
 
 ### Al-Salaf al-Salih

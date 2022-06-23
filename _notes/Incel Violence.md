@@ -4,7 +4,6 @@ category: society
 favicon: 
 ---
 
-## Incel Violence
 
 Incel forum participants often make comments encouraging and justifying violence against women. Approval of mass violence is mixed. Many users post comments glorifying the behaviors of Elliot Rodger and other offenders.
 
