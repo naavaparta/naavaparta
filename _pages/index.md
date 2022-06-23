@@ -5,5 +5,5 @@ id: home
 ---
 
 <section class="callout">
-	You know what a <em>digital garden</em> is, right? So you'll know what to expect.
+	Not a cornucopia of fully thought-out things. Not filled with wisdom. Merely my place to organize thoughts and think online, learn publicly.
 </section>
