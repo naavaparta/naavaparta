@@ -320,6 +320,7 @@ a.internal-link:after, a.footnote-backref:after {
   background: var(--callout-background);
   border-radius: 4px;
   height: auto;
+  width:50%;
 }
 
 /* Code blocks */
