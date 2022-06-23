@@ -1,6 +1,6 @@
 ---
 title: AvPD vs SAD
-category: psychology
+category: Psychology
 favicon: 
 ---
 

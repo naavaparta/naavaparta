@@ -1,6 +1,6 @@
 ---
 title: Income Inequality and Social Problems
-category: society
+category: Society
 favicon: 
 ---
 

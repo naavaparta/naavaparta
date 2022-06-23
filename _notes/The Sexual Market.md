@@ -1,6 +1,6 @@
 ---
 title: The Sexual Market
-category: society
+category: Society
 favicon: 
 ---
 

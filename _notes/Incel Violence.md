@@ -1,6 +1,6 @@
 ---
 title: Incel Violence
-category: society
+category: Society
 favicon: 
 ---
 

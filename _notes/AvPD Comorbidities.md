@@ -1,6 +1,6 @@
 ---
 title: AvPD Comorbidities
-category: psychology
+category: Psychology
 favicon: 
 ---
 

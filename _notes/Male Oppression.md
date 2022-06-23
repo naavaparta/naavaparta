@@ -1,6 +1,6 @@
 ---
 title: Male Oppression
-category: society
+category: Society
 favicon: 
 ---
 

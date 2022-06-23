@@ -1,6 +1,6 @@
 ---
 title: Salafism
-category: religion
+category: Religion
 favicon: 
 ---
 

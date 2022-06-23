@@ -1,6 +1,6 @@
 ---
 title: AvPD
-category: psychology
+category: Psychology
 favicon: 
 ---
 

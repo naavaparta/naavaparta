@@ -1,6 +1,6 @@
 ---
 title: The Incels
-category: society
+category: Society
 favicon: 
 ---
 
