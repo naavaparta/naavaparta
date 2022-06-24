@@ -11,7 +11,7 @@ id: sources
 - [Gender Wiki](https://gender.fandom.com)
 
 # Psychology
-[[AvPD]] [[Social Anxiety Disorder]]
+[[Avoidant Personality Disorder]] [[Social Anxiety Disorder]]
 
 - my own experiences living with AvPD
 - [Avoidant Personality Disorder: A Current Review](http://link.springer.com/10.1007/s11920-016-0665-6)

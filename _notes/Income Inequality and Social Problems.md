@@ -10,6 +10,6 @@ In communities where there is great income inequality, there is also more anger,
 
 ***
 
-Does it matter if the situation is truly inequal or if it is a matter of perception? *When you're accustomed to privilege, equality feels like oppression*? Consider [[The Incels]].
+Does it matter if the situation is truly inequal or if it is a matter of perception? *When you're accustomed to privilege, equality feels like oppression*?
 
-Also, is there a link between being an incel and income inequality? I would hypothesize that yes, there is.
+Also, is there a link between being the number of [[The Incels]] and income inequality? I would hypothesize that yes, there is.
