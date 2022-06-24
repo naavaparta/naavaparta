@@ -1,6 +1,6 @@
 ---
 title: The Incels
-category: Society
+category: Seedling
 favicon: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Agender
-category: gender
+category: Budding
 favicon: 
 ---
 

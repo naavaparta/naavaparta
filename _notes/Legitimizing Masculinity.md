@@ -1,6 +1,6 @@
 ---
 title: Legitimizing Masculinity
-category: Society
+category: Seedling
 favicon: 
 ---
 

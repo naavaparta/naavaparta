@@ -1,6 +1,6 @@
 ---
 title: AvPD
-category: Psychology
+category: Seedling
 favicon: 
 ---
 

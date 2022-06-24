@@ -1,6 +1,6 @@
 ---
 title: Male Oppression
-category: Society
+category: Seedling
 favicon: 
 ---
 

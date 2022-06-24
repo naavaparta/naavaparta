@@ -1,6 +1,6 @@
 ---
 title: Us vs Them Mentality
-category: Psychology
+category: Seedling
 favicon: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Transmisogynoir
-category: Society
+category: Budding
 favicon: 
 ---
 
@@ -12,4 +12,4 @@ The building blocks of the word are:
 - **gyny**: woman (from Ancient Greek)
 - **noir**: black (from French)
 
-It is a necessary term to draw attention how Black trans women are at the crossroads of multiple axis prejudice: anti-Blackness, transphobia, and misogyny.
+It is a necessary term to draw attention how Black trans women are at the crossroads of multiple axis of prejudice: anti-Blackness, transphobia, and misogyny.

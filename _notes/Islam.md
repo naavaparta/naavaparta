@@ -1,6 +1,6 @@
 ---
 title: Islam
-category: Religion
+category: Seedling
 favicon: 
 ---
 

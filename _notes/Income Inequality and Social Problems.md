@@ -1,6 +1,6 @@
 ---
 title: Income Inequality and Social Problems
-category: Society
+category: Budding
 favicon: 
 ---
 

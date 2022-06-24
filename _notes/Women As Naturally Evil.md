@@ -1,6 +1,6 @@
 ---
 title: Women As Naturally Evil
-category: Society
+category: Seedling
 favicon: 
 ---
 

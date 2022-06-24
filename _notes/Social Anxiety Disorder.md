@@ -1,6 +1,6 @@
 ---
 title: Social Anxiety Disorder
-category: Psychology
+category: Seedling
 favicon: 
 ---
 

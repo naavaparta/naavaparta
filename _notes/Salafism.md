@@ -1,6 +1,6 @@
 ---
 title: Salafism
-category: Religion
+category: Budding
 favicon: 
 ---
 

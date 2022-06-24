@@ -324,6 +324,10 @@ a.internal-link:after, a.footnote-backref:after {
   margin:0 auto;
 }
 
+.foot {
+  border-top: 1px solid var(--text-color-faded);
+}
+
 /* Code blocks */
 code {
   background: var(--callout-background);
