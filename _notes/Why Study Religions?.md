@@ -1,5 +1,5 @@
 ---
-title: Why Study Religion?
+title: Why Study Religions?
 category: Seedling
 favicon: 
 ---
