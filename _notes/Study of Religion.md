@@ -14,4 +14,4 @@ Global, international point of view must not be ignored. Besides differences bet
 
 The study of religion is an empirical, non-normative field of study. Religions aren't compared to see which one is the best. Religion is not studied from a personal or ideological point of view, but as objectively as possible.
 
-But why study religions? Well, [[Why Study Religions?]]
+But [[Why Study Religions]]?
