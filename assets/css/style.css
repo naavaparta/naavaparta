@@ -246,6 +246,10 @@ a.internal-link:after, a.footnote-backref:after {
   content: "";
 }
 
+.navig a.internal-link {
+  margin-right:20px;
+}
+
 *:focus {
   background: var(--primary-color);
 }
@@ -320,7 +324,7 @@ a.internal-link:after, a.footnote-backref:after {
   background: var(--callout-background);
   border-radius: 4px;
   height: auto;
-  width:50%;
+  width:75%;
   margin:0 auto;
 }
 
